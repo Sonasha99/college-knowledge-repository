@@ -1,0 +1,10 @@
+{
+  "domain": "College Management",
+  "category": "Fee Management",
+  "rules": [
+    "Students must have a valid fee record.",
+    "Fee payment must be associated with a registered student.",
+    "A successful payment must generate a payment record.",
+    "Outstanding fees must be maintained in the student's fee record."
+  ]
+}
