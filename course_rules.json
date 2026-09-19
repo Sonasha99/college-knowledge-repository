@@ -1,0 +1,10 @@
+{
+  "domain": "College Management",
+  "category": "Course Management",
+  "rules": [
+    "Only registered students can enroll in a course.",
+    "A student can enroll only in an available course.",
+    "A course must have a valid course ID.",
+    "A course must have a defined credit value."
+  ]
+}
