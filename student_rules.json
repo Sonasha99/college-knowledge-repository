@@ -1,0 +1,10 @@
+{
+  "domain": "College Management",
+  "category": "Student Management",
+  "rules": [
+    "Only registered students can enroll in courses.",
+    "Every student must have a unique student ID.",
+    "Student information must contain valid personal details.",
+    "A student must be enrolled in the college to access academic services."
+  ]
+}
