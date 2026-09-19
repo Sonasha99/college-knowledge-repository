@@ -1,0 +1,10 @@
+{
+  "domain": "College Management",
+  "category": "Examination Management",
+  "rules": [
+    "Only registered students can appear for examinations.",
+    "A student must satisfy the examination eligibility requirements.",
+    "Each examination must be associated with a valid course.",
+    "Examination results must be recorded for each student."
+  ]
+}
