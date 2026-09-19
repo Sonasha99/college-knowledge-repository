@@ -1,0 +1,10 @@
+{
+  "domain": "College Management",
+  "category": "Attendance Management",
+  "rules": [
+    "Attendance must be recorded for every scheduled class.",
+    "Only enrolled students can receive attendance.",
+    "Attendance percentage is calculated from attended and conducted classes.",
+    "Attendance records must be maintained for each course."
+  ]
+}
